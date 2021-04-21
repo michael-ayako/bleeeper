@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="app_name">bleeeper</string>
+<string name="logintext">Login</string>
+<string name="LoginErr">Errormessage</string>
+<string name="constantfonttype">Times New Roman</string>
+<string name="codehint">Username or E-mail Address</string>
+<string name="passwordhint">*********</string>
+<string name="loginbuttontxt">Proceed</string>
+<string name="loginregbuttontxt">Register Here!!</string>
+<string name="regtxt">Registration</string>
+<string name="regusername">Username</string>
+<string name="regemail">E-mail Address</string>
+<string name="regbuttondata">Submit!!</string>
+
+</resources>
