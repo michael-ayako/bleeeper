@@ -1,0 +1,365 @@
+@charset "utf-8";
+/* CSS Document */
+
+#statuspane
+{
+      width:82.5%;
+      height:100%;
+      position:fixed;
+      padding-right:3px;
+      padding-top:3px;
+              
+    
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+ }
+ #status-content{
+     
+    position:relative;
+    background-color:#FFFFFF;
+    width:99.5%;
+    margin-left:4px;
+    height:100%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    }
+#boinkerz{
+    position:fixed;
+    margin-left:3px;
+    margin-top:3px;
+    overflow-y:scroll;
+    width:42.5%;
+    height:100%;
+     -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+#update{
+    position:fixed;
+    background-color:#FFFFFF;
+    width:533px;
+    z-index:2;
+}
+#boinkerz #update label{
+font-family:book antiqua;
+font-size:13px;
+}
+#boinkerz #update textarea{
+font-family:book antiqua;
+font-size:15px;
+width:400px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+#boinkerz #update input[type=button]{
+    position:absolute;
+    margin-left:2px;
+    width:105px;
+    height:30px;
+    color:#ffffff;
+    font-size:15px;
+    font-family:Book Antiqua;
+    border-style:none;
+	    -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    
+    /* Chrome 10+,Safari */
+    background :#4099ff;
+
+    /* Firefox 4+ */ 
+    background :#4099ff;
+
+    /* Opera */
+    background :#4099ff;
+
+    /* IE 10+ */
+     background:#4099ff; 
+
+    /* W3C */
+    background :#4099ff;
+    }
+#boinkerz #update input[type=button]:hover{
+   /* Chrome 10+,Safari */
+background :#0858b3;
+
+/* Firefox 4+ */ 
+background :#0858b3;
+
+/* Opera */
+background :#0858b3;
+
+/* IE 10+ */
+background :#0858b3; 
+
+/* W3C */
+background :#0858b3;
+  
+}
+
+#boinkerz #update #boink_success{
+    width:306px;
+    height:30px;
+    font-family:Calibri;
+    font-weight:500;
+    padding-top:10px;
+    padding-left:100px;
+    color:#FFFFFF;
+    border-color:#1AFF00;
+    border-width:thick;
+    margin-top:10px;
+    display:none;
+    
+       -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    
+    /* Chrome 10+,Safari */
+    background :#4099ff;
+
+    /* Firefox 4+ */ 
+    background :#4099ff;
+
+    /* Opera */
+    background :#4099ff;
+
+    /* IE 10+ */
+     background:#4099ff; 
+
+    /* W3C */
+    background :#4099ff;
+    
+    }
+#boinkerz #others{
+    height:auto;
+    width:auto;
+    margin-top:100px;
+   
+}
+#boinked{
+    width:530px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    padding-bottom:20px;
+    
+    }
+#boinked .image{
+    position:relative;
+    margin-left:10px;
+    margin-top:10px;
+    z-index:1;
+    }
+#boinked .names{
+    position:absolute;
+    margin-left: 70px;
+    margin-top: -55px;
+    color:#4099ff;
+    font-weight:800;
+    font-family:calibri;
+    font-size:15px;
+    }
+#boinked .names ._just_boinked{
+    color:#000000;
+    font-size:13px;
+    font-weight:700;
+}
+#boinked .boinkstatement{
+    position:relative;
+    margin-top: -30px;
+    margin-left: 70px;
+    color:#000000;
+    font-weight:lighter;
+    font-family:Calibri;
+    font-size:15px;
+
+}
+#boinked .boinktime{
+    position:relative;
+    margin-left: 70px;
+    margin-top:5px;
+    color:#4099ff;
+    font-weight:lighter;
+    font-family:Calibri;
+    font-size:13px;
+}
+
+ 
+
+
+#following{
+  position:fixed;
+  margin-left: 43%;
+  width: 38.5%;;
+  overflow-y:scroll;
+  height:100%;
+  padding:5px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+#following #shoutout{
+    position:fixed;
+    background-color:#FFFFFF;
+    width:470px;
+    z-index:2;
+    margin-top: -5px;
+	           -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    }
+#following #shoutout label{
+font-family:book antiqua;
+font-size:13px;
+margin-top:5px;
+}
+#following #shoutout textarea{
+font-family:book antiqua;
+font-size:15px;
+width:365px;
+       -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+#following #shoutout input[type=button]{
+    position:absolute;
+    margin-left:2px;
+    width:105px;
+    height:30px;
+    color:#ffffff;
+    font-size:15px;
+    font-family:Book Antiqua;
+    border-style:none;
+	       -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    
+    /* Chrome 10+,Safari */
+    background :#4099ff;
+
+    /* Firefox 4+ */ 
+    background :#4099ff;
+
+    /* Opera */
+    background :#4099ff;
+
+    /* IE 10+ */
+     background:#4099ff; 
+
+    /* W3C */
+    background :#4099ff;
+    }
+#following #shoutout input[type=button]:hover{
+   /* Chrome 10+,Safari */
+background :#0858b3;
+
+/* Firefox 4+ */ 
+background :#0858b3;
+
+/* Opera */
+background :#0858b3;
+
+/* IE 10+ */
+background :#0858b3; 
+
+/* W3C */
+background :#0858b3;
+  
+}
+#following #shoutout #shoutout_success{
+    
+    width:306px;
+    height:30px;
+    font-family:Calibri;
+    font-weight:500;
+    padding-top:10px;
+    padding-left:60px;
+    color:#FFFFFF;
+    border-color:#FFFFFF;
+    border-width:thick;
+    margin-top:10px;
+    display:none;
+    
+    
+           -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    
+    /* Chrome 10+,Safari */
+    background :#4099ff;
+
+    /* Firefox 4+ */ 
+    background :#4099ff;
+
+    /* Opera */
+    background :#4099ff;
+
+    /* IE 10+ */
+     background:#4099ff; 
+
+    /* W3C */
+    background :#4099ff;
+    
+    }
+#following #shoutouts{
+    height:auto;
+    width:auto;
+    margin-top:100px;
+   
+}
+#_shoutout_content{
+    width:530px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    padding-bottom:20px;
+    
+    }
+#_shoutout_content .image{
+    position:relative;
+    margin-left:10px;
+    margin-top:10px;
+    z-index:1;
+    }
+#_shoutout_content .names{
+    position:absolute;
+    margin-left: 70px;
+    margin-top: -55px;
+    color:#5B0001;
+    font-weight:800;
+    font-family:calibri;
+    font-size:15px;
+	           -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    }
+#_shoutout_content .names ._shoutout_from{
+    color:#000000;
+    font-size:13px;
+    font-weight:700;
+}
+#_shoutout_content .boinkstatement{
+    position:relative;
+    margin-top: -30px;
+    margin-left: 70px;
+    color:#000000;
+    font-weight:lighter;
+    font-family:Calibri;
+    font-size:15px;
+	           -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+
+}
+#_shoutout_content .boinktime{
+    position:relative;
+    margin-left: 70px;
+    margin-top:5px;
+    color:#5B0001;
+    font-weight:lighter;
+    font-family:Calibri;
+    font-size:13px;
+}
+
+

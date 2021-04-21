@@ -1,0 +1,381 @@
+/* CSS Document */
+#group-content
+{
+      width:82.5%;
+      height:92%;
+      position:fixed;
+      padding-right:3px;
+      padding-top:3px;
+
+
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+#group-body{
+    position:relative;
+    background-color:#FFFFFF;
+    width:99.5%;
+    margin-left:4px;
+    overflow-y:scroll;
+    height:91%;
+    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+.navbar-groups{
+color:#FFFFFF;
+list-style:none;
+margin-left:-35px;
+     }
+.navbar-groups ol a 
+{
+    
+    position:relative;
+    display:inline-table;
+    color:#ffffff;
+    font-size:15px;
+    font-family:Book Antiqua;
+    width:200px; 
+    margin-top:-15px;
+    padding:5px;
+    border-bottom-style:solid;
+    border-bottom-color:#F8F8F8;
+    border-right-style:solid;
+    border-right-color:#F8F8F8;
+    
+    text-decoration:none;
+    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    
+
+    
+    /* Chrome 10+,Safari */
+    background : -webkit-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* Firefox 4+ */ 
+    background : -moz-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* Opera */
+    background : -o-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* IE 10+ */
+    background : -ms-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%); 
+    
+    /* W3C */
+    background : -linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+
+}
+.navbar-groups ol a li{
+    margin-left:3px;
+    list-style:none;
+    text-decoration:none;
+    
+}
+.navbar-groups ol a:hover
+{
+    text-decoration:none;
+/* Chrome 10+,Safari */
+background : -webkit-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* Firefox 4+ */ 
+background : -moz-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* Opera */
+background : -o-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* IE 10+ */
+background : -ms-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%); 
+
+/* W3C */
+background : -linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+    
+    }
+    
+#createnewgroupform{
+margin-left: 10px;
+margin-top: 10px;
+padding: 20px;
+width: 500px;
+
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+
+
+          /* Chrome 10+,Safari */
+background : -webkit-linear-gradient(top, rgb(99, 41, 138) 24%, rgb(147, 27, 194) 45%, rgb(99, 24, 128) 71%);
+
+/* Firefox 4+ */ 
+background : -moz-linear-gradient(top, rgb(99, 41, 138) 24%, rgb(147, 27, 194) 45%, rgb(99, 24, 128) 71%);
+
+/* Opera */
+background : -o-linear-gradient(top, rgb(99, 41, 138) 24%, rgb(147, 27, 194) 45%, rgb(99, 24, 128) 71%);
+
+/* IE 10+ */
+background : -ms-linear-gradient(top, rgb(99, 41, 138) 24%, rgb(147, 27, 194) 45%, rgb(99, 24, 128) 71%); 
+
+/* W3C */
+background : -linear-gradient(top, rgb(99, 41, 138) 24%, rgb(147, 27, 194) 45%, rgb(99, 24, 128) 71%);
+}
+#createnewgroupform legend
+{
+    font-family:Book Antiqua;
+    font-size:24px;
+    color:#FFFFFF;
+    margin-top:10px;
+    margin-bottom:10px;
+    
+}
+#createnewgroupform label
+{
+       font-family:Gill Sans MT;
+       font-weight:100;
+       color:#FFFFFF;
+       text-align:justify;
+       font-size:16px; 
+       margin-top:10px;
+       margin-bottom:10px;
+}
+#createnewgroupform input[type=text]{
+    height:30px;
+    width:300px;
+    font-family:Gill Sans MT;
+    font-size:16px;
+    margin-top:10px;
+    margin-bottom:10px;
+    }
+#createnewgroupform input[type=text]:hover{
+    background-color:#AA30D1;
+    color:#FFFFFF;
+    }
+#createnewgroupform input[type=text]:active{
+    background-color:#AA30D1;
+    color:#FFFFFF;
+    }
+#createnewgroupform textarea{
+    height:auto;
+    width:300px;
+    font-family:Gill Sans MT;
+    font-size:16px;
+    margin-top:10px;
+    margin-bottom:10px;
+    }
+#createnewgroupform textarea:hover{
+    background-color:#AA30D1;
+    color:#FFFFFF;
+    }
+#createnewgroupform textarea:active{
+    background-color:#AA30D1;
+    color:#FFFFFF;
+    }
+#createnewgroupform button{
+    font-family:Calibri;
+    color:#FFFFFF;
+    height:30px;
+    width:150px;
+    font-size:16px;
+	border-style:none;
+    
+    /* Chrome 10+,Safari */
+    background : -webkit-linear-gradient(top, rgb(107, 50, 107) 39%, rgb(150, 63, 150) 73%);
+
+    /* Firefox 4+ */ 
+    background : -moz-linear-gradient(top, rgb(107, 50, 107) 39%, rgb(150, 63, 150) 73%);
+
+    /* Opera */
+    background : -o-linear-gradient(top, rgb(107, 50, 107) 39%, rgb(150, 63, 150) 73%);
+
+    /* IE 10+ */
+     : -ms-linear-gradient(top, rgb(107, 50, 107) 39%, rgb(150, 63, 150) 73%); 
+
+    /* W3C */
+    background : -linear-gradient(top, rgb(107, 50, 107) 39%, rgb(150, 63, 150) 73%);
+
+    }
+#createnewgroupform button:hover{
+    
+    
+/* Chrome 10+,Safari */
+background : -webkit-linear-gradient(top, rgb(138, 66, 138) 39%, rgb(199, 55, 199) 73%);
+
+/* Firefox 4+ */ 
+background : -moz-linear-gradient(top, rgb(138, 66, 138) 39%, rgb(199, 55, 199) 73%);
+
+/* Opera */
+background : -o-linear-gradient(top, rgb(138, 66, 138) 39%, rgb(199, 55, 199) 73%);
+
+/* IE 10+ */
+background : -ms-linear-gradient(top, rgb(138, 66, 138) 39%, rgb(199, 55, 199) 73%); 
+
+/* W3C */
+background : -linear-gradient(top, rgb(138, 66, 138) 39%, rgb(199, 55, 199) 73%);
+
+    }
+#search_grp{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    }
+#search_grp label{
+    Font-family:Book Antiqua;
+    font-size:18px;
+    color:#000000;
+    }
+#search_grp input[type=text]{
+    width:300px;
+    height:23px;
+    }
+#tabgroupspopup{
+    z-index: 50;
+    margin-left: 230px;
+    margin-top: 55px;
+    position: fixed;
+    height: 100%;
+    width: 1025px;
+    background-color:#FFFFFF;
+    border-color:#6700C0;
+    border-style:solid;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display:none;
+    }
+#groupadmintoggle{
+    float:right;
+    margin-top: -5px;
+    margin-right: 3px;
+    clear:both;
+    }
+#groupadmintoggle ol{
+    text-decoration:none;
+    list-style:none;
+    }
+#groupadmintoggle ol a li{
+    display:inline;
+    background-color:#48006C;
+    color:#FFFFFF;
+    padding:5px 24px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-left: -5px;
+    font-size:15px;
+    font-family:Book Antiqua;
+    text-decoration:none;
+    }
+#groupadmintoggle ol a li:hover{
+    background-color:#6900CF;
+    }
+#groupadmintoggle ol a .shutpane{
+    background-color:#920002;
+    }   
+#groupadmintoggle ol a .shutpane:hover{
+    background-color:#D70003;
+    } 
+#groupadmintoggle ol a .degroup{
+    background-color:#920002;
+    margin-right: 83px;
+    }   
+#groupadmintoggle ol a .degroup:hover{
+    background-color:#D70003;
+}
+#groupaboutpanel{
+    margin-left: 84px;
+    width:250px;
+    }
+#groupaboutpanel .grpabtpaneltitlepane{
+    width:221px;
+    padding:15px;
+    background-color:#6D00A4;
+    color:#FFFFFF;
+    font-family:book antiqua;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+#groupaboutpanel .grpabtpanelcontext{
+    width:221px;
+    padding:15px ;
+    background-color:#F8EAFF;
+    color:#000000;
+    font-family:book antiqua;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+#groupaboutpanel .grpabtpanelcontext:hover{
+    background-color:#AA32FB;
+    color:#FFFFFF;
+    }
+#invitesearchresult{
+    overflow-y:scroll;
+    }
+#groupadminentity{
+    position:absolute;
+    margin-top: 50px;
+    
+    width:99%;
+    height:auto;
+    min-height:300px;
+    }
+#groupmsgtoggle{
+    float:right;
+    margin-top: -5px;
+    margin-right: 3px;
+    clear:both;
+    }
+#groupmsgtoggle ol{
+    text-decoration:none;
+    list-style:none;
+    }
+#groupmsgtoggle ol a li{
+    display:inline;
+    background-color:#48006C;
+    color:#FFFFFF;
+    padding:5px 24px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-left: -5px;
+    font-size:15px;
+    font-family:Book Antiqua;
+    text-decoration:none;
+    }
+#groupmsgtoggle ol a li:hover{
+    background-color:#6900CF;
+    }
+#groupmsgtoggle ol a .shutpane{
+    background-color:#920002;
+    }   
+#groupmsgtoggle ol a .shutpane:hover{
+    background-color:#D70003;
+    } 
+#groupmsgtoggle ol a .degroup{
+    background-color:#920002;
+    margin-right: 438px;
+    } 
+#groupmsgentity{
+    position:absolute;
+    margin-top: 50px;
+    
+    width:99%;
+    height:auto;
+    min-height:300px;
+    } 
+#grpmsg{    
+width: 50%;
+margin-left: 23%;
+height: 60px;
+font-family: calibri;
+font-size: 16px; 
+}
+
+
+
+

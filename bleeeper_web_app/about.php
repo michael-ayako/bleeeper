@@ -1,0 +1,8 @@
+<link type="text/css" href="bleeepercss/bleeeperstruct.css" rel="stylesheet" media="screen"/>
+<div id="bodystyle">
+<div id="content">
+<h1>About Bleeeper</h1>
+<h2>What is Bleeeper?</h2>
+<p>Bleeeper was started and is currently undergoing development by Michael Ayako Nyakonu a Kenya Methodist University Student. The inspiration for the development of the social media platform, was the fact that as a Kenyan citizen we majorly depend on the international community to acquire most of our services that underlie in the sector of technology, hence the birth of bleeeper which is meant to localise social media to the Kenyan level. Bleeeper is a social media platform that is new to the social media market and hopes to gain popularity amongst the Kenyan population, hence allowing it to compete amongst the various already present social media platforms on the globe. These social media platform was is basically developed to serve the purpose that other social media sites perform i.e. connect people. The reason that led to the developing of bleeeper, is mainly to fill the present niche for a Social Media Platform for the Kenyan Nation. Major social media platforms like Facebook, Twitter and Google are aimed at serving users at a global and have integrated a variety of services that allow them to be among the top tier social media platforms around the world as we know it right now. Bleeeper is a social media platform that hopes to join the market and satisfy the market from a more basic level, by this we mean that we are aiming to reach the Kenyan market. </p>
+</div>
+</div>

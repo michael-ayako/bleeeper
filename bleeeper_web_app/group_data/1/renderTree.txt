@@ -1,0 +1,155 @@
+--*****
+layer [o:0x5bfbefd4, p:0x0, s:0x0, c:0x5bfbf130][zIndex:0]at (0,0) size 320x795, absBounds at (0,0) size 320x508
+  RenderView 0x5bfbeef8 at (0,0) size 320x508
+ positive z-order list(1)
+  layer [o:0x5bfbf130, p:0x5bfbefd4, s:0x0, c:0x5bfbf34c][zIndex:0]at (0,0) size 320x507, absBounds at (-1,0) size 321x527
+    RenderBlock 0x5bfbf0b4 {HTML} at (0,0) size 320x507 class="ui-mobile"
+      RenderBody 0x5bfbf42c {BODY} at (0,21) size 320x506 [color=#FFFFFF] [bgcolor=#222222] class="ui-mobile-viewport ui-overlay-a"
+        RenderBlock 0x5bfbf254 {DIV} at (0,0) size 320x78
+          RenderBlock 0x5bfbf2d0 {H1} at (0,0) size 320x38
+            RenderText 0x5bfbf574 {#text} at (0,0) size 103x38
+              text run at (0,0) width 103: "Picture"
+          RenderBlock (anonymous) 0x5bfbf630 at (0,59) size 320x19
+            RenderBlock 0x5bfbf5b4 {A} at (0,0) size 36x19 [color=#0000EE] class="ui-btn-right"
+              RenderText 0x5bfbf6ac {#text} at (0,0) size 36x19
+                text run at (0,0) width 36: "Back"
+            RenderText 0x5bfbf6ec {#text} at (0,0) size 0x0
+        RenderBlock 0x5bfbf72c {DIV} at (0,96) size 320x59
+          RenderBlock 0x5bfbf7a8 {DIV} at (0,0) size 320x59
+            RenderBlock 0x5bfbf824 {UL} at (0,0) size 320x59
+              RenderListItem 0x5bfbf8a0 {LI} at (40,0) size 280x59 id="capture"
+                RenderBlock 0x5bfbf994 {H3} at (0,0) size 280x22
+                  RenderListMarker 0x5bfbf92c at (-18,2) size 7x19: bullet
+                  RenderText 0x5bfbfa10 {#text} at (0,0) size 122x22
+                    text run at (0,0) width 122: "Take a Picture"
+                RenderBlock 0x5bfbfa50 {P} at (0,40) size 280x19
+                  RenderText 0x5bfbfacc {#text} at (0,0) size 71x19
+                    text run at (0,0) width 71: "Click here"
+        RenderBlock 0x5bfbfb0c {DIV} at (0,171) size 320x204
+          RenderImage 0x5bfbfb88 {IMG} at (0,0) size 320x200 id="myImage"
+          RenderText 0x5bfbfbfc {#text} at (0,0) size 0x0
+        RenderBlock 0x5bfbfc3c {DIV} at (0,375) size 320x32
+          RenderButton 0x5bfbfcb8 {BUTTON} at (2,2) size 16x28 [color=#000000] [bgcolor=#C0C0C0] [border: (2px outset #C0C0C0)] id="btnSend"
+          RenderText 0x5bfbfd48 {#text} at (0,0) size 0x0
+   positive z-order list(26)
+    layer [o:0x5bfbf34c, p:0x5bfbf130, s:0x0, c:0x5c629284][zIndex:0]at (0,0) size 320x795, absBounds at (0,0) size 320x795
+      RenderBlock (absolute positioned) 0x5c629010 {DIV} at (0,0) size 320x795 id="page-home" class="ui-page ui-body-a ui-page-active"
+     normal flow list(1)
+      layer [o:0x5c633634, p:0x5bfbf34c, s:0x0, c:0x5c659094][zIndex:0]at (0,42) size 320x753, absBounds at (0,42) size 320x753
+        RenderBlock 0x5c6335b8 {DIV} at (0,42) size 320x753 id="contentForm" class="ui-content"
+          RenderBlock 0x5c6338c0 {DIV} at (15,15) size 290x113
+            RenderImage 0x5c633790 {IMG} at (79,0) size 132x109
+            RenderText 0x5c659560 {#text} at (0,0) size 0x0
+          RenderBlock 0x5c659018 {P} at (15,144) size 290x0
+          RenderBlock 0x5c6595a0 {FORM} at (15,144) size 290x586 id="form1"
+    layer [o:0x5c629284, p:0x5bfbf34c, s:0x5c633634, c:0x5c633498][zIndex:0]at (0,0) size 320x42, absBounds at (0,0) size 320x42
+      RenderBlock (relative positioned) 0x5c628f18 {DIV} at (0,0) size 320x42 [bgcolor=#5E87B0] [border: (1px solid #456F9A) none (1px solid #456F9A) none] class="ui-header ui-bar-b"
+     normal flow list(1)
+      layer [o:0x5c633498, p:0x5c629284, s:0x0, c:0x0][zIndex:0]at (96,10) size 128x19, absBounds at (96,10) size 128x19
+        RenderBlock 0x5c629364 {H1} at (96,10) size 128x19 class="ui-title"
+          RenderText 0x5c633578 {#text} at (19,0) size 90x19
+            text run at (19,0) width 90: "KenyaPower"
+    layer [o:0x5c659094, p:0x5c633634, s:0x5c6592d0, c:0x5c6591f0][zIndex:0]at (15,186) size 290x89, absBounds at (14,186) size 296x89
+      RenderBlock (relative positioned) 0x5c659174 {DIV} at (0,0) size 290x89 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+        RenderBlock 0x5c64b378 {LABEL} at (0,12) size 290x22 class="ui-input-text"
+          RenderText 0x5c628708 {#text} at (0,1) size 121x19
+            text run at (0,1) width 121: "Customer Name:"
+        RenderTextControl 0x5c659480 {INPUT} at (0,38) size 295x36 [bgcolor=#222222] [border: (1px solid #444444)] id="name" class="ui-input-text ui-body-a ui-corner-all ui-shadow-inset"
+     normal flow list(1)
+      layer [o:0x5c6591f0, p:0x5c659094, s:0x0, c:0x0][zIndex:0]at (22,231) size 281x22, absBounds at (22,231) size 281x22
+        RenderBlock 0x5c62b688 {DIV} at (7,7) size 281x22
+          RenderText 0x5c659d14 {#text} at (1,1) size 104x19
+            text run at (1,1) width 104: "michael ayako"
+    layer [o:0x5c6592d0, p:0x5c633634, s:0x5c64b848, c:0x5c64b6ec][zIndex:0]at (15,275) size 290x89, absBounds at (14,275) size 296x89
+      RenderBlock (relative positioned) 0x5c64b670 {DIV} at (0,89) size 290x89 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+        RenderBlock 0x5c64b7cc {LABEL} at (0,12) size 290x22 class="ui-input-text"
+          RenderText 0x5c6593b0 {#text} at (0,1) size 107x19
+            text run at (0,1) width 107: "Meter Number:"
+        RenderTextControl 0x5c64b3f4 {INPUT} at (0,38) size 295x36 [bgcolor=#222222] [border: (1px solid #444444)] id="id" class="ui-input-text ui-body-a ui-corner-all ui-shadow-inset"
+     normal flow list(1)
+      layer [o:0x5c64b6ec, p:0x5c6592d0, s:0x0, c:0x0][zIndex:0]at (22,320) size 281x22, absBounds at (22,320) size 281x22
+        RenderBlock 0x5c62b230 {DIV} at (7,7) size 281x22
+    layer [o:0x5c64b848, p:0x5c633634, s:0x5c64bc9c, c:0x5c64b9a4][zIndex:0]at (15,364) size 290x89, absBounds at (3,364) size 319x89
+      RenderBlock (relative positioned) 0x5c64bf80 {DIV} at (0,178) size 290x89 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+        RenderBlock 0x5c64b928 {LABEL} at (0,12) size 290x22 class="ui-input-text"
+          RenderText 0x5c64bf40 {#text} at (0,1) size 114x19
+            text run at (0,1) width 114: "Mobile Number:"
+        RenderTextControl 0x5c64be60 {INPUT} at (0,38) size 295x36 [bgcolor=#222222] [border: (1px solid #444444)] id="mobile" class="ui-input-text ui-body-a ui-corner-all ui-shadow-inset ui-focus"
+     normal flow list(1)
+      layer [o:0x5c64b9a4, p:0x5c64b848, s:0x0, c:0x0][zIndex:0]at (22,409) size 281x22, absBounds at (22,409) size 281x22
+        RenderBlock 0x5c63408c {DIV} at (7,7) size 281x22
+          RenderText 0x5c659b68 {#text} at (1,1) size 37x19
+            text run at (1,1) width 37: "0724"
+    layer [o:0x5c64bc9c, p:0x5c633634, s:0x5c62b864, c:0x5c64b550][zIndex:0]at (15,453) size 290x89, absBounds at (14,453) size 296x89
+      RenderBlock (relative positioned) 0x5c64bc20 {DIV} at (0,267) size 290x89 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+        RenderBlock 0x5c64ba84 {LABEL} at (0,12) size 290x22 class="ui-input-text"
+          RenderText 0x5c64bd7c {#text} at (0,1) size 70x19
+            text run at (0,1) width 70: "Message:"
+        RenderTextControl 0x5c64bb00 {INPUT} at (0,38) size 295x36 [bgcolor=#222222] [border: (1px solid #444444)] id="message" class="ui-input-text ui-body-a ui-corner-all ui-shadow-inset"
+     normal flow list(1)
+      layer [o:0x5c64b550, p:0x5c64bc9c, s:0x0, c:0x0][zIndex:0]at (22,498) size 281x22, absBounds at (22,498) size 281x22
+        RenderBlock 0x5c633c34 {DIV} at (7,7) size 281x22
+    layer [o:0x5c62b864, p:0x5c633634, s:0x5c62b40c, c:0x5c62bb5c][zIndex:0]at (15,542) size 290x91, absBounds at (15,542) size 290x91
+      RenderBlock (relative positioned) 0x5c64b4d4 {DIV} at (0,356) size 290x91 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+    layer [o:0x5c62bb5c, p:0x5c62b864, s:0x5c62bcb8, c:0x0][zIndex:0]at (15,554) size 290x22, absBounds at (14,554) size 291x22
+      RenderBlock (relative positioned) 0x5c62b7e8 {LABEL} at (0,12) size 290x22 class="select ui-select"
+        RenderText 0x5c64bbe0 {#text} at (0,1) size 186x19
+          text run at (0,1) width 186: "Register Complaint about:"
+    layer [o:0x5c62bcb8, p:0x5c62b864, s:0x0, c:0x5c64b1dc][zIndex:0]at (15,580) size 290x40, absBounds at (15,580) size 290x40
+      RenderBlock (relative positioned) 0x5c62bae0 {DIV} at (0,38) size 290x40 class="ui-select"
+    layer [o:0x5c64b1dc, p:0x5c62bcb8, s:0x0, c:0x5c62be14][zIndex:0]at (15,580) size 290x40, absBounds at (11,577) size 298x48 clip at (16,581) size 288x38
+      RenderBlock (relative positioned) 0x5c62bc3c {DIV} at (0,0) size 290x40 [bgcolor=#333333] [border: (1px solid #111111)] class="ui-btn ui-btn-up-a ui-shadow ui-btn-corner-all ui-fullsize ui-btn-block ui-btn-icon-right"
+    layer [o:0x5c62be14, p:0x5c64b1dc, s:0x5c62b9c0, c:0x5c64b018][zIndex:0]at (16,581) size 288x38, absBounds at (16,581) size 288x38 clip at (16,582) size 288x37
+      RenderBlock (relative positioned) 0x5c64b2fc {SPAN} at (1,1) size 288x38 [border: (1px solid #FFFFFF4C) none] class="ui-btn-inner ui-btn-corner-all"
+    layer [o:0x5c62bf70, p:0x5c62be14, s:0x0, c:0x0][zIndex:0]at (271,591) size 18x18, absBounds at (271,591) size 18x21
+      RenderBlock (absolute positioned) 0x5c62c090 {SPAN} at (255,10) size 18x18 [bgcolor=#00000066] class="ui-icon ui-icon-arrow-d ui-icon-shadow"
+        RenderText 0x5c64b2bc {#text} at (7,0) size 4x19
+          text run at (7,0) width 4: " "
+    layer [o:0x5c62b40c, p:0x5c633634, s:0x5c63410c, c:0x5c62b5a8][zIndex:0]at (15,633) size 290x91, absBounds at (15,633) size 290x91
+      RenderBlock (relative positioned) 0x5c62b944 {DIV} at (0,447) size 290x91 [border: none (1px solid #8282824C) none] class="ui-field-contain ui-body ui-br"
+    layer [o:0x5c62b5a8, p:0x5c62b40c, s:0x5c62b708, c:0x0][zIndex:0]at (15,645) size 290x22, absBounds at (14,645) size 291x22
+      RenderBlock (relative positioned) 0x5c62b390 {LABEL} at (0,12) size 290x22 class="select ui-select"
+        RenderText 0x5c62c050 {#text} at (0,1) size 167x19
+          text run at (0,1) width 167: "Your complaint affects:"
+    layer [o:0x5c62b708, p:0x5c62b40c, s:0x0, c:0x5c634268][zIndex:0]at (15,671) size 290x40, absBounds at (15,671) size 290x40
+      RenderBlock (relative positioned) 0x5c62b4ec {DIV} at (0,38) size 290x40 class="ui-select"
+    layer [o:0x5c634268, p:0x5c62b708, s:0x0, c:0x5c62b150][zIndex:0]at (15,671) size 290x40, absBounds at (11,668) size 298x48 clip at (16,672) size 288x38
+      RenderBlock (relative positioned) 0x5c6341ec {DIV} at (0,0) size 290x40 [bgcolor=#333333] [border: (1px solid #111111)] class="ui-btn ui-shadow ui-btn-corner-all ui-fullsize ui-btn-block ui-btn-icon-right ui-btn-up-a"
+    layer [o:0x5c62b150, p:0x5c634268, s:0x5c633fac, c:0x5c62b2b0][zIndex:0]at (16,672) size 288x38, absBounds at (16,672) size 288x38 clip at (16,673) size 288x37
+      RenderBlock (relative positioned) 0x5c634348 {SPAN} at (1,1) size 288x38 [border: (1px solid #FFFFFF4C) none] class="ui-btn-inner ui-btn-corner-all"
+    layer [o:0x5c633e10, p:0x5c62b150, s:0x0, c:0x0][zIndex:0]at (271,682) size 18x18, absBounds at (271,682) size 18x21
+      RenderBlock (absolute positioned) 0x5c633ef0 {SPAN} at (255,10) size 18x18 [bgcolor=#00000066] class="ui-icon ui-icon-arrow-d ui-icon-shadow"
+        RenderText 0x5c62b568 {#text} at (7,0) size 4x19
+          text run at (7,0) width 4: " "
+    layer [o:0x5c63410c, p:0x5c633634, s:0x0, c:0x5c6339b8][zIndex:0]at (20,732) size 280x40, absBounds at (16,729) size 288x48
+      RenderBlock (relative positioned) 0x5c633a98 {DIV} at (5,546) size 280x40 [bgcolor=#396B9E] [border: (1px solid #044062)] class="ui-btn ui-btn-up-b ui-shadow ui-btn-corner-all ui-fullsize ui-btn-block"
+    layer [o:0x5c6339b8, p:0x5c63410c, s:0x5c633cb4, c:0x5c633b54][zIndex:0]at (21,733) size 278x38, absBounds at (21,733) size 278x38 clip at (21,734) size 278x37
+      RenderBlock (relative positioned) 0x5c633844 {SPAN} at (1,1) size 278x38 [border: (1px solid #FFFFFF4C) none] class="ui-btn-inner ui-btn-corner-all"
+    layer [o:0x5c64b018, p:0x5c62be14, s:0x5c62bf70, c:0x0][zIndex:1]at (36,591) size 223x19, absBounds at (36,591) size 223x19
+      RenderBlock (relative positioned) 0x5c62bd98 zI: 1 {SPAN} at (20,10) size 223x19 class="ui-btn-text"
+        RenderText 0x5c64b630 zI: 1 {#text} at (55,0) size 113x19
+          text run at (55,0) width 113: "Power Blackout"
+    layer [o:0x5c62b2b0, p:0x5c62b150, s:0x5c633e10, c:0x0][zIndex:1]at (36,682) size 223x19, absBounds at (36,682) size 223x19
+      RenderBlock (relative positioned) 0x5c633d94 zI: 1 {SPAN} at (20,10) size 223x19 class="ui-btn-text"
+        RenderText 0x5c62baa0 zI: 1 {#text} at (88,0) size 47x19
+          text run at (88,0) width 47: "House"
+    layer [o:0x5c633b54, p:0x5c6339b8, s:0x0, c:0x0][zIndex:1]at (21,733) size 52x19, absBounds at (133,743) size 54x21 backgroundClip at (21,734) size 278x37 clip at (21,734) size 278x37 outlineClip at (21,734) size 278x37
+      RenderInline (relative positioned) 0x5c628ee0 zI: 1 {SPAN} at (0,0) size 52x19 class="ui-btn-text"
+        RenderText 0x5c633f6c zI: 1 {#text} at (113,10) size 52x19
+          text run at (113,10) width 52: "Submit"
+    layer [o:0x5c62b9c0, p:0x5c64b1dc, s:0x0, c:0x0][zIndex:2]at (16,581) size 288x38, absBounds at (16,581) size 288x38
+      RenderMenuList 0x5c64bdbc zI: 2 {SELECT} at (1,1) size 288x38 [color=#000000] [bgcolor=#FFFFFF] [border: (1px solid #000000)] id="register"
+        RenderBlock (anonymous) 0x5c62bef4 at (1,9) size 286x19
+          RenderText 0x5c64b0f8 zI: 2 at (0,0) size 113x19
+            text run at (0,0) width 113: "Power Blackout"
+    layer [o:0x5c633fac, p:0x5c634268, s:0x0, c:0x0][zIndex:2]at (16,672) size 288x38, absBounds at (16,672) size 288x38
+      RenderMenuList 0x5c64b138 zI: 2 {SELECT} at (1,1) size 288x38 [color=#000000] [bgcolor=#FFFFFF] [border: (1px solid #000000)] id="affect"
+        RenderBlock (anonymous) 0x5c63393c at (1,9) size 286x19
+          RenderText 0x5c6343c4 zI: 2 at (0,0) size 46x19
+            text run at (0,0) width 46: "House"
+    layer [o:0x5c633cb4, p:0x5c63410c, s:0x0, c:0x0][zIndex:2]at (21,733) size 278x38, absBounds at (-4853,733) size 5152x38
+      RenderButton 0x5c6593f0 zI: 2 {BUTTON} at (1,1) size 278x38 [color=#000000] [bgcolor=#FFFFFF00] id="buttonGetCategory" class="ui-btn-hidden"
+        RenderBlock (anonymous) 0x5c633714 at (6,14) size 266x9
+          RenderText 0x5c633b14 zI: 2 {#text} at (-4879,0) size 27x9
+            text run at (-4879,0) width 26: "Submit"
+caret: position 4 of child 0 {#text} of child 0 {DIV} of child 3 {INPUT} of child 5 {DIV} of child 4 {FORM} of child 5 {DIV} of child 1 {DIV} of body

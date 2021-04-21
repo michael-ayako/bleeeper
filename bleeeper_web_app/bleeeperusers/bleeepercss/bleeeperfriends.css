@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+#friendspane
+{
+      width:82.5%;
+      height:92%;
+      position:fixed;
+      padding-right:3px;
+
+    
+    
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+ }
+#friends-content{
+    position:relative;
+    background-color:#FFFFFF;
+    width:99.5%;
+    margin-left:4px;
+    overflow-y:scroll;
+    height:91%;
+    margin-top:-10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+ .navbar-friends{
+color:#FFFFFF;
+list-style:none;
+margin-left:-35px;
+     }
+.navbar-friends ol a 
+{
+    
+    position:relative;
+    display:inline-table;
+    color:#ffffff;
+    font-size:15px;
+    font-family:Book Antiqua;
+    width:200px; 
+    margin-top:-15px;
+    padding:5px;
+    border-bottom-style:solid;
+    border-bottom-color:#F8F8F8;
+    border-right-style:solid;
+    border-right-color:#F8F8F8;
+    
+    text-decoration:none;
+    
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    
+
+    
+    /* Chrome 10+,Safari */
+    background : -webkit-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* Firefox 4+ */ 
+    background : -moz-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* Opera */
+    background : -o-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+    /* IE 10+ */
+    background : -ms-linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%); 
+    
+    /* W3C */
+    background : -linear-gradient(top, rgb(47, 53, 158) 19%, rgb(82, 80, 138) 68%);
+    
+
+}
+.navbar-friends ol a li{
+    margin-left:3px;
+    list-style:none;
+    text-decoration:none;
+}
+.navbar-friends ol a:hover
+{
+    text-decoration:none;
+/* Chrome 10+,Safari */
+background : -webkit-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* Firefox 4+ */ 
+background : -moz-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* Opera */
+background : -o-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+
+/* IE 10+ */
+background : -ms-linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%); 
+
+/* W3C */
+background : -linear-gradient(top, rgb(60, 60, 194) 20%, rgb(101, 121, 171) 68%);
+    
+    }
+   
+

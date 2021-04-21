@@ -1,0 +1,17 @@
+project number:503790801309
+
+API Key for bleeeper:AIzaSyA8yyeNnH0MoP_8iAq0hvCgBGS3TxyIGL0
+
+FTP:!PJBMfzJ^dDk
+
+cd C:\Eclipse\sdk\platform-tools
+
+adb connect 192.168.9.101
+
+netsh wlan start hostednetwork
+
+516606 
+
+www.TrendAlways.com
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoI3+29d2oT34x/G1pQ0E/cRUZwZ+WHbWpDLEwML6/8dF9lt6+y2w6ZvFttAg12KVqI+h6+MyktqZ3XaVeNGikHQmEYL1o0ij4AXHJoJ/tFKPMcT42Pye6lTGJdS8LQlHKRdrWSgzb1RW5cH1uI5nBj1OrO5mz4kSBEnBy7xT1VD4DfXTBDcD/RHtvTE5R38tvi0SS9vtUvBnzVplAY2TFVSKqZulHITX+ZjXINx3Nh2fM2TD3ztURkGz3DC3okqADeO2nvE1vQM8JbEgn38Ux+E4beGQueGp6HVIvvThJDSa0SAk11mzzviLE/gVmmNTvCza6Sc6689H9quKBMXbQwIDAQAB

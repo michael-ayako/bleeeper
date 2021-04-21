@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+#notificator{
+    
+    position:fixed;
+    overflow-y:scroll;
+    color:#ffffff;
+    font-size:18px;
+    font-family:Book Antiqua;
+    width: 220px;
+    margin-left: -8px;
+    margin-top: 236px;
+    height::auto;
+    max-height: 200px;
+    padding:5px;
+    border-bottom-style:solid;
+    border-bottom-color:#F8F8F8;
+    
+    
+    
+    -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+    
+ 
+    }
+#notread{
+    margin-left: -4px;
+    padding:5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-top:1px;
+    
+    /* Chrome 10+,Safari */
+    background :#4099ff;
+
+    /* Firefox 4+ */ 
+    background :#4099ff;
+
+    /* Opera */
+    background :#4099ff;
+
+    /* IE 10+ */
+     background:#4099ff; 
+
+    /* W3C */
+    background :#4099ff;
+    }
+#notreadsender{
+    font-size: small;
+    font-weight: bold;
+}
+#notreadmessage{
+font-size: small;
+}
+#notreadtime{
+font-size: small;
+}

@@ -1,0 +1,259 @@
+/* CSS Document */
+#freinds{
+    -webkit-animation: myfriendstab 1.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myfriendstab 1.5s linear  ; 
+    animation: myfriendstab 1.5s linear  ;
+    }
+#_load .failed{
+    -webkit-animation: myfriendstab 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myfriendstab 0.5s linear  ; 
+    animation: myfriendstab 0.5s linear  ;
+    }
+@-moz-keyframes myfriendstab {
+from        {width:-500px;}
+to          {width:0px;}
+}
+@-webkit-keyframes myfriendstab {
+from        {margin-left:-500px;}
+to          {margin-left:0px;}
+}
+@keyframes myfriendstab {
+from        {margin-left:-500px;}
+to          {margin-left:0px;}
+}
+#notificator{
+    -webkit-animation: mynotificator 1s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mynotificator 1s linear  ; 
+    animation: mynotificator 1s linear  ;
+    }
+@-moz-keyframes mynotificator {
+from        {margin-top:1000px;}
+to          {margin-top:236px;}
+}
+@-webkit-keyframes mynotificator {
+from        {margin-top:1000px;}
+to          {margin-top:236px;}
+}
+@keyframes mynotificator {
+from        {margin-top:1000px;}
+to          {margin-top:236px;}
+}
+
+#messagepane{
+    -webkit-animation: mymessage 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mymessage 0.5s linear  ; 
+    animation: mymessage 0.5s linear  ;
+    }
+@-moz-keyframes mymessage {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@-webkit-keyframes mymessage {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@keyframes mymessage {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+ 
+#statuspane{
+    -webkit-animation: myfirst 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myfirst 0.5s linear  ; 
+    animation: myfirst 0.5s linear  ;
+    }
+@-moz-keyframes myfirst {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@-webkit-keyframes myfirst {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@keyframes myfirst {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+#friendspane{
+    -webkit-animation: myfriends 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myfriends 0.5s linear  ; 
+    animation: myfriends 0.5s linear  ;
+    }
+@-moz-keyframes myfriends {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@-webkit-keyframes myfriends {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@keyframes myfriends {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+#loadfriendcontentswipe{
+    -webkit-animation: myfriendscontent 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myfriendscontent 0.5s linear  ; 
+    animation: myfriendscontent 0.5s linear  ;
+    }
+@-moz-keyframes myfriendscontent {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes myfriendscontent {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@keyframes myfriendscontent {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+#profile-content{
+    -webkit-animation: myprofile 0.3s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofile 0.3s linear  ; 
+    animation: myprofile 0.3s linear  ;
+    }
+@-moz-keyframes myprofile {
+from        {margin-top:-2000px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes myprofile {
+from        {margin-top:-2000px;}
+to          {margin-top:0px;}
+}
+@keyframes myprofile {
+from        {margin-top:-2000px;}
+to          {margin-top:0px;}
+}
+#profile_input_1{
+    -webkit-animation: myprofiletextbox 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofiletextbox 0.5s linear  ; 
+    animation: myprofiletextbox 0.5s linear  ;
+    }
+#profile_input_2{
+    -webkit-animation: myprofiletextbox 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofiletextbox 0.5s linear  ; 
+    animation: myprofiletextbox 0.5s linear  ;
+    }
+@-moz-keyframes myprofiletextbox {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes myprofiletextbox {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@keyframes myprofiletextbox {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+
+#error_friend_req_1{
+    -webkit-animation: myprofiletextbox 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofiletextbox 0.5s linear  ; 
+    animation: myprofiletextbox 0.5s linear  ;
+    }
+#error_friend_req_2{
+    -webkit-animation: myprofiletextbox 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofiletextbox 0.5s linear  ; 
+    animation: myprofiletextbox 0.5s linear  ;
+    }
+#success_friend_req_1{
+    -webkit-animation: myprofiletextbox 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: myprofiletextbox 0.5s linear  ; 
+    animation: myprofiletextbox 0.5s linear  ;
+    }
+#_load .search-field{
+    -webkit-animation: mysearchresults 0.2s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mysearchresults 0.2s linear  ; 
+    animation: mysearchresults 0.2s linear  ;
+    }
+@-moz-keyframes mysearchresults {
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes mysearchresults {
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+@keyframes mysearchresults{
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+
+    
+#msg_user_thread{
+    -webkit-animation: mytabmessages 1.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mytabmessages 1.5s linear  ; 
+    animation: mytabmessages 1.5s linear  ;
+    }
+@-moz-keyframes mytabmessages {
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes mytabmessages {
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+@keyframes mytabmessages {
+from        {margin-top:1000px;}
+to          {margin-top:0px;}
+}
+#msgcompose{
+    -webkit-animation: mytabmessages 0.1s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mytabmessages 0.1s linear  ; 
+    animation: mytabmessages 0.1s linear  ;
+    }
+#search-content{
+    -webkit-animation: mysearch 1.0s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation:  mysearch 1.0s linear  ; 
+    animation:  mysearch 1.0s linear  ;
+    }
+@-moz-keyframes  mysearch {
+from        {height:0%}
+to          {height:100%}
+}
+@-webkit-keyframes  mysearch {
+from        {height:0%}
+to          {height:100%}
+}
+@keyframes  mysearch {
+from        {height:0%}
+to          {height:100%}
+}
+#group-content{
+    -webkit-animation: mygroups 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mygroups 0.5s linear  ; 
+    animation: mygroups 0.5s linear  ;
+    }
+@-moz-keyframes mygroups {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@-webkit-keyframes mygroups {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+@keyframes mygroups {
+from        {margin-left:2000px;}
+to          {margin-left:0px;}
+}
+#groups-pane-content{
+    -webkit-animation: mygrouppane 0.5s linear  ; /* Chrome, Safari, Opera */
+    -moz-animation: mygrouppane 0.5s linear  ; 
+    animation: mygrouppane 0.5s linear  ;
+    }
+@-moz-keyframes mygrouppane {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@-webkit-keyframes mygrouppane {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+@keyframes mygrouppane {
+from        {margin-top:-500px;}
+to          {margin-top:0px;}
+}
+
+
